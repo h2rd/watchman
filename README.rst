@@ -1,4 +1,4 @@
-Watchman
-========
+Watchman ( dirty version )
+==========================
 
-Easy way to monitoring
+an easy way to monitor stuff and decide on actions
