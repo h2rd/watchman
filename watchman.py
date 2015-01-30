@@ -98,7 +98,7 @@ def run():
 
     # Logging all stuff
     logging.basicConfig(
-        level=watchman.get('log_level', 'DEBUG'),
+        level=logging.INFO,
         filename=watchman['log'],
         format=FORMAT)
     logging.getLogger("requests").setLevel(logging.CRITICAL)
